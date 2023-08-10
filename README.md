@@ -6,4 +6,3 @@ nesse projeto eu aprendi a fazer calculos de imc usando javascript
 + CSS
 + JAVASCRIPT
 
-
